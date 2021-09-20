@@ -1,4 +1,9 @@
 # Topic Modeling Police Misconduct Data — Project Status September 2021
+
+This was a summer project I spearheaded under the supervision of of Dr. George Wood, Moore-Sloan Faculty Fellow at New York University's Center for Data Science.
+
+All code is my own.
+
 ## Introduction
 Police misconduct has the effect of deepening the mistrust that can exist between communities and law enforcement.  This type of misconduct is not only detrimental to the victims immediately involved in the incident, but is consequential overall to public safety.  A systematic and transparent way of documenting misconduct complaints is a key tool in developing strategies to reduce police misconduct and crucial to the public interest.  Currently, complaints are usually handled internally by police departments.  Consequently, complaint severity, category, and the resultant disciplinary action are usually left to the discretion of the law enforcement organization. In our research we propose building a machine learning topic modeling system capable of processing raw police misconduct complaints in order to suggest alternative categorizations.  This system would be the foundation for an automated tool for auditing departmental misconduct decisions and allow for a searchable database of complaint records. Using misconduct complaints acquired from the Chicago Police Department, we are building out a text analysis pipeline for these types of unstructured data.  Additionally, we are currently in the process of acquiring data from more police departments nationwide, and ultimately hope to have a generalized, automated system for handling these types of complaints.
 ## Scope
